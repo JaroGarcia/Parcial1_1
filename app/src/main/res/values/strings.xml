@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Parcial</string>
+    <string name="Enviar">ENVIAR</string>
+    <string name="Nombres">Nombre y Apellido</string>
+    <string name="Direccion">Direccion</string>
+    <string name="telefono">Telefono</string>
+    <string name="correo">Correo Electronico</string>
+</resources>
